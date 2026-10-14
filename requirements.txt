@@ -1,0 +1,9 @@
+langchain
+langgraph
+langchain-community
+langchain-chroma
+langchain-nvidia-ai-endpoints
+langchain-huggingface
+sentence-transformers
+dotenv 
+pypdf
