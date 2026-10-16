@@ -7,3 +7,5 @@ langchain-huggingface
 sentence-transformers
 dotenv 
 pypdf
+pillow
+rapidocr
